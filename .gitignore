@@ -1,0 +1,6 @@
+node_modules/
+.env
+data/
+resto-data.json
+uploads/
+npm-debug.log*
